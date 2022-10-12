@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'TIL', // 사이트 타이틀
+  title: 'vuepress example', // 사이트 타이틀
   description: 'vuepress로 만든 문서입니다.',
   themeConfig: {
     nav: [
